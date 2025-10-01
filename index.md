@@ -5,3 +5,7 @@
 ``` python
 print ('Hello world!')
 ```
+
+- [ ] Change the above image
+- [ ] Add some more Python code
+- [X] Add a header
